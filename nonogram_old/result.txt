@@ -1,0 +1,27 @@
+ |1234567890123456789012345
+---------------------------
+1|  X XXX             XXXX 
+2| XX XXX  X     X    XXXXX
+3| XXXX    X XXXXXXXXXXXXXX
+4| XXXXX   X XXXXXXXXXXXXXX
+5|XXXXXX    XXXXXXXXXXXXXXX
+6|XXXX          XXXXXXXXXXX
+7|XXX    X     XXX    XXXXX
+8|XXXXX    X XXXX  XXXXXXXX
+9|  XXX  XXXXXXX        XXX
+0| XXXX X XXXXXX     X   XX
+1|   X    XXXXXX     X    X
+2|    X   XXXXXX XXX X   XX
+3|   XXX   XXXXXXXXXX   XXX
+4|    XX   XXXX XX X     XX
+5|XXX      XXX XXXX  XXX   
+6|XXX     XXXXX      XXX   
+7|XXX     XXX         XXXX 
+8|XXXX X    XX       XXXXXX
+9|XXX     X           XX XX
+0|XX   XXXXXXXXX     X    X
+1|XX     XXXXX XXX        X
+2|XX   XX   XXXXXX    X    
+3|XXX           XX    X    
+4|XXX           XX   XXX   
+5|XXX  X            XXXX   
